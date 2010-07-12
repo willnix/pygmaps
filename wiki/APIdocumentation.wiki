@@ -21,7 +21,7 @@
  # PARAMETER6:	Lng-interval (float)  grid size in longitude 
  # RETURN:	no returns
 
-==== map._addpoint(latitude, longitude, '[color'])_ ====
+==== map._addpoint(latitude, longitude, '[color]')_ ====
  # DESC:		add a point into a map and dispaly it, color is optional default is red
  # PARAMETER1:	latitude (float) latitude of the point
  # PARAMETER2:	longitude (float) longitude of the point
