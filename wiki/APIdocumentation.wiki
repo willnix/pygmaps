@@ -12,7 +12,7 @@
 
 === class maps functions ===
 ==== maps._setgrids(start-Lat, end-Lat, Lat-interval, start-Lng, end-Lng, Lng-interval)_ ====
- # DESC:		set grids on map  
+ # DESC: set grids on map  
  # PARAMETER1:	start-Lat (float), start (minimum) latittude of the grids
  # PARAMETER2:	end-Lat (float), end (maximum) latittude of the grids
  # PARAMETER3:	Lat-interval (float)  grid size in latitude 
@@ -21,8 +21,8 @@
  # PARAMETER6:	Lng-interval (float)  grid size in longitude 
  # RETURN:	no returns
 
-==== map._addpoint(latitude, longitude, '[color]')_ ====
- # DESC:		add a point into a map and dispaly it, color is optional default is red
+==== map._addpoint(latitude, longitude, [color])_ ====
+ # DESC: add a point into a map and dispaly it, color is optional default is red
  # PARAMETER1:	latitude (float) latitude of the point
  # PARAMETER2:	longitude (float) longitude of the point
  # PARAMETER3:	color (string) color of the point showed in map, using HTML color code. HTML COLOR CODE:  [http://www.computerhope.com/htmcolor.htm] e.g. red "'#FF0000", Blue "'#0000FF", Green "'#00FF00"
