@@ -38,7 +38,7 @@
 
 ==== maps._addpath(path,`[color]`)_ ====
  # DESC:		add a path into map, the data struceture of Path is a list of points
- # PARAMETER1:	path (list of coordinates) e.g. [(lat1,lng1),(lat2,lng2),...]
+ # PARAMETER1:	path (list of coordinates) e.g. `[(lat1,lng1),(lat2,lng2),...]`
  # PARAMETER2:	color (string) color of the point showed in map, using HTML color code HTML COLOR CODE:  [http://www.computerhope.com/htmcolor.htm] e.g. red "#FF0000", Blue "#0000FF", Green "#00FF00"
  # RETURN:	no return
 
