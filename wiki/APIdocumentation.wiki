@@ -5,7 +5,7 @@
 == Class _pygmaps.maps_ ==
 
 === class maps functions ===
-==== *_maps(latitude, longitude, zoom)_* ====
+==== *CONSTRUCTOR _maps(latitude, longitude, zoom)_* ====
  class constructor, initialize a map  with latitude and longitude of center point and map zoom level.
  * *latitude* (float) latittude of map center point
  * *longitude* (float) latittude of map center point
