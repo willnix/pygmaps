@@ -25,8 +25,7 @@
  # DESC:		add a point into a map and dispaly it, color is optional default is red
  # PARAMETER1:	latitude (float) latitude of the point
  # PARAMETER2:	longitude (float) longitude of the point
- # PARAMETER3:	color (string) color of the point showed in map, using HTML color code
-HTML COLOR CODE:  [http://www.computerhope.com/htmcolor.htm]
+ # PARAMETER3:	color (string) color of the point showed in map, using HTML color code. HTML COLOR CODE:  [http://www.computerhope.com/htmcolor.htm]
 e.g. red "#FF0000", Blue "#0000FF", Green "#00FF00"
  # RETURN:	no return
 
