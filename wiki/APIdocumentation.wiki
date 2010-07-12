@@ -7,11 +7,11 @@
 = Class pygmaps.maps =
 
 == class maps functions ==
-* maps(latitude, longitude, zoom)
+ * maps(latitude, longitude, zoom)
 initialize a map  with latitude and longitude of center point and map zoom level.
-** latitude (float) latittude of map center point
-** longitude (float) latittude of map center point
-** zoom (int)  map zoom level 0~20
-** return the instant of pygmaps
+  ** latitude (float) latittude of map center point
+  ** longitude (float) latittude of map center point
+  ** zoom (int)  map zoom level 0~20
+  ** return the instant of pygmaps
 
 == class maps attributes ==
