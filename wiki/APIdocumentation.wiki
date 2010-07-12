@@ -3,13 +3,22 @@
 = Module _pygmaps_ =
 
 == Class _pygmaps.maps_ ==
-
-=== class maps functions ===
-==== *CONSTRUCTOR _maps(latitude, longitude, zoom)_* ====
+=== *Constructor _maps(latitude, longitude, zoom)_* ===
  class constructor, initialize a map  with latitude and longitude of center point and map zoom level.
  * *latitude* (float) latittude of map center point
  * *longitude* (float) latittude of map center point
  * *zoom* (int)  map zoom level 0~20
  * return the instant of pygmaps
+
+=== class maps functions ===
+==== Function maps.setgrids(start-Lat, end-Lat, Lat-interval, start-Lng, end-Lng, Lng-interval) ====
+# DESC:		set grids on map  
+# PARAMETER1:	start-Lat (float), start (minimum) latittude of the grids
+# PARAMETER2:	end-Lat (float), end (maximum) latittude of the grids
+# PARAMETER3:	Lat-interval (float)  grid size in latitude 
+# PARAMETER4:	start-Lng (float), start (minimum) longitude of the grids
+# PARAMETER5:	end-Lng (float), end (maximum) longitude of the grids
+# PARAMETER6:	Lng-interval (float)  grid size in longitude 
+# RETURN:	no returns
 
 === class maps attributes ===
