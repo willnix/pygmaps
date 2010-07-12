@@ -1,13 +1,13 @@
 #summary API documentation for pygmaps.
 
-= Module pygmaps =
+= Module _pygmaps_ =
 
 
 
-= Class pygmaps.maps =
+= Class _pygmaps.maps_ =
 
 == class maps functions ==
- * *maps(latitude, longitude, zoom)*
+ * *_maps(latitude, longitude, zoom)_*
    class constructor, initialize a map  with latitude and longitude of center point and map zoom level.
    * *latitude* (float) latittude of map center point
    * *longitude* (float) latittude of map center point
